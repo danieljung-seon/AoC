@@ -12,5 +12,4 @@ func solve_00_2() {
 	}
 
 	fmt.Println(input)
-	// TODO: Implement
 }
